@@ -1,0 +1,15 @@
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\bin\Debug\net6.0\HomeWork9.002.exe
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\bin\Debug\net6.0\HomeWork9.002.deps.json
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\bin\Debug\net6.0\HomeWork9.002.runtimeconfig.json
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\bin\Debug\net6.0\HomeWork9.002.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\bin\Debug\net6.0\HomeWork9.002.pdb
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.csproj.AssemblyReference.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.AssemblyInfoInputs.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.AssemblyInfo.cs
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.csproj.CoreCompileInputs.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\refint\HomeWork9.002.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.pdb
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\HomeWork9.002.genruntimeconfig.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HomeWork9.002\obj\Debug\net6.0\ref\HomeWork9.002.dll
